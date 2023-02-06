@@ -1,0 +1,1 @@
+Programme sensationnel capable de récupérer des potins et ensuite de les modifier (mais seulement le n°0...)
